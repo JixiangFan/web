@@ -42,12 +42,12 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
 **Publications**
 ======
 
-Below are a few of my most recent publications. All conference proceedings listed are strictly peer-reviewed, archival works.
+Below are a few of my publications. All conference proceedings listed are strictly peer-reviewed, archival works.
 
 For a full list of my papers, refer to my [publications page](/publications/)
 
 Diary Study as an Educational Tool: An Experience Report from an HCI Course  
-**Fan, Jixiang**, Derek Haqq, Morva Saaty, Wei-Lu Wang, and Scott McCrickard. (2025)  
+**Fan, Jixiang**, Derek Haqq, Morva Saaty, Wei-Lu Wang, and D. Scott McCrickard. (2025)  
 <span style="display:inline-block; padding:2px 6px; font-size:90%; 
              font-weight:600; border:1px solid #ccc; border-radius:6px; 
              background:#e6f2ff; margin-right:6px;">
@@ -55,10 +55,8 @@ Diary Study as an Educational Tool: An Experience Report from an HCI Course
 </span>
 <a href="https://dl.acm.org/doi/10.1145/3641554.3701845">ACM Digital Library Link</a>
 
-
-
 Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration  
-**Fan, Jixiang**, Wei-Lu Wang, Natalie Andrus, Yusheng Cao, Morva Saaty, Shiva Ghasemi, Lei Xia, and Scott McCrickard. (2025)  
+**Fan, Jixiang**, Wei-Lu Wang, Natalie Andrus, Yusheng Cao, Morva Saaty, Shiva Ghasemi, Lei Xia, and D. Scott McCrickard. (2025)  
 <span style="display:inline-block; padding:2px 6px; font-size:90%; 
              font-weight:600; border:1px solid #ccc; border-radius:6px; 
              background:#e6f2ff; margin-right:6px;">
@@ -66,24 +64,51 @@ Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insight
 </span>
 <a href="https://dl.acm.org/doi/10.1145/3742901.3742917">ACM Digital Library Link</a>
 
-Understanding the Creation of Human-Virtual Entity Bonds through the AR Mobile Game Peridot  
-**Fan, Jixiang**, Yusheng Cao, Morva Saaty, Wei-Lu Wang, Lei Xia, Huayi Liu, and D. Scott McCrickard. (2025)  
+Writing Home From Afar: Connecting Distant Families through Sharing of Outdoor Experiences with Digital Diaries  
+Wei-Lu Wang, Natalie Andrus, Taha Hassan, **Jixiang Fan**, Yusheng Cao, Joelle Asante, Morva Saaty, Derek Haqq, and D. Scott McCrickard. (2025)  
 <span style="display:inline-block; padding:2px 6px; font-size:90%; 
              font-weight:600; border:1px solid #ccc; border-radius:6px; 
              background:#e6f2ff; margin-right:6px;">
-  CHI 2025 LBW
+  CSCW 2025
 </span>
-<a href="https://dl.acm.org/doi/10.1145/3706599.3719751">ACM Digital Library Link</a>
-
+<a href="https://dl.acm.org/doi/10.1145/XXXXX">ACM Digital Library Link</a>
 
 Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education  
-**Fan, Jixiang**, and Scott McCrickard. (2025)  
+**Fan, Jixiang**, and D. Scott McCrickard. (2025)  
 <span style="display:inline-block; padding:2px 6px; font-size:90%; 
              font-weight:600; border:1px solid #ccc; border-radius:6px; 
              background:#e6f2ff; margin-right:6px;">
   ICER 2025
 </span>
 <a href="https://dl.acm.org/doi/10.1145/3702653.3744312">ACM Digital Library Link</a>
+
+Understanding the Creation of Human-Virtual Entity Bonds through the AR Mobile Game Peridot  
+**Fan, Jixiang**, Yusheng Cao, Morva Saaty, Wei-Lu Wang, Lei Xia, Huayi Liu, and D. Scott McCrickard. (2025)  
+<span style="display:inline-block; padding:2px 6px; font-size:90%; 
+             font-weight:600; border:1px solid #ccc; border-radius:6px; 
+             background:#e6f2ff; margin-right:6px;">
+  CHI 2025
+</span>
+<a href="https://dl.acm.org/doi/10.1145/3706599.3719751">ACM Digital Library Link</a>
+
+Structuring Collaborative Reflection: Integrating Diary Study and Focus Group Discussion  
+**Fan, Jixiang**, Jiacheng Zhao, Sunggyeol Oh, Michael Bolmer Jr, Yoonje Lee, Nick Flammer, Yuhao Chen, and D. Scott McCrickard. (2025)  
+<span style="display:inline-block; padding:2px 6px; font-size:90%; 
+             font-weight:600; border:1px solid #ccc; border-radius:6px; 
+             background:#e6f2ff; margin-right:6px;">
+  CSCW 2025
+</span>
+<a href="https://dl.acm.org/doi/10.1145/XXXXX">ACM Digital Library Link</a>
+
+Education in HCI Outdoors: A Diary Study Approach  
+**Fan, Jixiang**, Morva Saaty, and D. Scott McCrickard. (2024)  
+<span style="display:inline-block; padding:2px 6px; font-size:90%; 
+             font-weight:600; border:1px solid #ccc; border-radius:6px; 
+             background:#e6f2ff; margin-right:6px;">
+  EduCHI 2024
+</span>
+<a href="https://dl.acm.org/doi/10.1145/3658619.3658621">ACM Digital Library Link</a>
+
 
 
 ---
