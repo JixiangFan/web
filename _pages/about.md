@@ -149,7 +149,7 @@ asdadasdasda
 <strong style="font-weight:900; font-size:1.3em;">Contact Me</strong>
 
 <!-- Office Hours -->
-<div style="margin:0.75rem 0; padding:0.75rem; border:1px solid #e5e5e5; border-radius:8px; background:#fafafa;">
+<div style="margin:0.75rem 0; padding:0.75rem; border:1px solid #e5e5e5; border-radius:8px;">
   <div style="font-weight:700; margin-bottom:0.25rem;">Office Hours (CHCI Hack-n-Yak)</div>
   <div><strong>Where:</strong> 220 Gilbert Street, room 2124</div>
   <div><strong>When:</strong> Friday, September 5th, 12–2 PM</div>
@@ -169,13 +169,14 @@ asdadasdasda
 <div style="margin:0.75rem 0; padding:0.75rem; border:1px solid #e5e5e5; border-radius:8px;">
   <div style="font-weight:700; margin-bottom:0.25rem;">Email</div>
   <div>
+    My institutional email is 
     <a href="mailto:jfan12@vt.edu" style="text-decoration:none; font-weight:600;">
       jfan12@vt.edu
-    </a>
-  </div>
-  <div style="font-size:90%; color:#555; margin-top:0.35rem;">
-    Email is usually the best way to reach me.
+    </a>.
+    Email is the best way to reach me in many cases.
+    To maintain work-life boundaries, I typically do not check my email on weekends or holidays.
   </div>
 </div>
+
 
 ---
