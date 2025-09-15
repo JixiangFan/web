@@ -17,7 +17,6 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
 
 
 <h2>News &amp; Talks</h2>
-<hr />
 
 <div div class="news-box"
      style="max-height:240px;overflow-y:auto;padding:0.25rem 0.5rem;
