@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Fan_Jixiang.JPG"
-  name             : "Jixiang Fan"
+  name             : "Jixiang Fan | 范积祥"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate at Virginia Tech Computer Science Department."
-  location         : "Blacksburg"
+  bio              : "Ph.D. Candidate<br>Computer Science<br>Virginia Tech"
+  location         : "Blacksburg, Virginia"
   employer         : "Virginia Tech"
   # uri              : "jfan12@vt.edu"
   email            : "jfan12@vt.edu" 
