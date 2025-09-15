@@ -8,7 +8,6 @@ redirect_from:
 <style>
   :root { 
     scroll-behavior: smooth; 
-    color-scheme: light !important;  /* 告诉浏览器使用亮色模式 */
   }
   .section { 
     scroll-margin-top: 72px; 
@@ -20,8 +19,7 @@ redirect_from:
                  "Helvetica Neue", Arial, sans-serif !important;
     font-size: 16px;
     line-height: 1.6;
-    color: #111 !important;
-    background: #fff !important;
+    color: #111;
   }
   .page__content p {
     margin-bottom: 1em;
@@ -39,20 +37,8 @@ redirect_from:
     border-radius: 0 !important;    /* 不要圆角 */
     object-fit: contain !important; /* 避免剪切 */
   }
-
-  /* 隐藏 Light/Dark mode 切换按钮 */
-  .theme-toggle {
-    display: none !important;
-  }
-
-  /* 如果主题切到 dark，强制回到 light 的颜色 */
-  html[data-theme="dark"] {
-    --color-background: #fff !important;
-    --color-text: #111 !important;
-    --color-link: #0066cc !important;
-    --color-link-hover: #004499 !important;
-  }
 </style>
+
 
 
 
