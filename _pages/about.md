@@ -8,7 +8,6 @@ redirect_from:
 <style>
   :root { scroll-behavior: smooth; }          
   .section { scroll-margin-top: 72px; }         
-  .page__content { max-width: 1100px;  }
 </style>
 
 <strong style="font-weight:900; font-size:1.3em;">About</strong>
