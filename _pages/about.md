@@ -17,12 +17,13 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
 
 
 <h2 style="border-bottom:0; padding-bottom:0; margin-bottom:.25rem;">News &amp; Talks</h2>
-<hr>
+<hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
 
 <div class="news-box"
      style="height:200px; overflow-y:auto; padding:0.25rem 0.5rem;
             border-top:0; border-bottom:0;">
-  <p><strong>Aug 2025:</strong> With DU colleague <a href="#">Laurel Taylor</a>, I presented my recent paper <em>Design as Translation, Translation as Design: Toward Critical, Creative, and Ethical Pedagogies</em> at the 2025 EduCHI Symposium in Bloomington, Indiana! Read an overview of the event from the hosting Luddy School of Informatics <a href="#">here</a>.</p>
+  <p><strong>Aug 2025:</strong> I presented my recent paper <em>[Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration](https://dl.acm.org/doi/pdf/10.1145/3742901.3742917)</em> at the 2025 EduCHI Symposium in Bloomington, Indiana! Read an overview of the event from the hosting Luddy School of Informatics [here](https://news.iu.edu/luddy/live/news/46734-prestigious-educhi-2025-highlights-luddy-schools).</p>
+
 
   <p><strong>July 2025:</strong> I will be at the <a href="#">2025 ACM RESPECT conference</a> as a discussant for the doctoral consortium! Say hello :)</p>
 
@@ -31,7 +32,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
   <p><strong>Jan 2025:</strong> In collaboration with <a href="#">AiiCE</a>, I moderated a <a href="#">panel</a> with authors from our <em>Teaching Accessible Computing</em> book project.</p>
 </div>
 
-
+<hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
 
 
 
