@@ -127,9 +127,32 @@ Education in HCI Outdoors: A Diary Study Approach
 <span id="teaching" style="position:relative; top:-84px;"></span>
 <strong style="font-weight:900; font-size:1.3em;">Teaching</strong>
 
-asdadasdasda
+<p>These are the courses I have taught or served as a teaching assistant for.</p>
 
+<!-- Instructor of Record -->
+<div style="margin:1rem 0;">
+  <div style="font-weight:700; font-size:1.1em; margin-bottom:0.5rem;">
+    As Instructor of Record
+  </div>
+  <ul style="margin:0; padding-left:1.2rem;">
+    <li><strong>CS3604: Professionalism in Computing</strong>, Virginia Tech — Fall 2024, Fall 2025</li>
+  </ul>
+</div>
 
+<!-- Graduate Teaching Assistant -->
+<div style="margin:1rem 0;">
+  <div style="font-weight:700; font-size:1.1em; margin-bottom:0.5rem;">
+    As Graduate Teaching Assistant
+  </div>
+  <ul style="margin:0; padding-left:1.2rem;">
+    <li><strong>CS1114: Introduction to Software Design</strong> (CS1 with Lab)</li>
+    <li><strong>CS2114: Software Design & Data Structures</strong> (CS2 with Lab)</li>
+    <li><strong>CS3114: SData Structures & Algorithms</strong></li>
+    <li><strong>CS3724: Introduction to HCI</strong></li>
+    <li><strong>CS5714: Usability Engineering</strong></li>
+    <li><strong>CS5724: Models & Theories of HCI</strong></li>
+  </ul>
+</div>
 
 ---
 <span id="cv" style="position:relative; top:-84px;"></span>
