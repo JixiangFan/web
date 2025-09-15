@@ -23,18 +23,22 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
      style="height:200px; overflow-y:auto; padding:0.25rem 0.5rem;
             border-top:0; border-bottom:0;">
 
-  <p><strong>Aug 2025:</strong> I presented my recent poster <em><a href="https://dl.acm.org/doi/10.1145/3702653.3744312">Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education</a></em> at the 21st ACM Conference on International Computing Education Research (ICER2025) in Charlottesville, Virginia! It was a wonderful  <a href="https://x.com/ICER_C/status/1952075497925484754">opportunity</a> to share my ongoing work and engage in insightful conversations with the computing education research community.</p>
+<p><strong>Aug 2025:</strong> I presented my recent poster <em><a href="https://dl.acm.org/doi/10.1145/3702653.3744312">Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education</a></em> at the 21st ACM Conference on International Computing Education Research (ICER2025) in Charlottesville, Virginia! It was a wonderful  <a href="https://x.com/ICER_C/status/1952075497925484754">opportunity</a> to share my ongoing work and engage in insightful conversations with the computing education research community.</p>
   
-  <p><strong>Aug 2025:</strong> I presented my recent paper <em><a href="https://dl.acm.org/doi/10.1145/3742901.3742917">Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration</a></em> at the 2025 EduCHI Symposium in Bloomington, Indiana! Read an overview of the event from the hosting Luddy School of Informatics <a href="https://news.iu.edu/luddy/live/news/46734-prestigious-educhi-2025-highlights-luddy-schools">here</a>.</p>
+<p><strong>Aug 2025:</strong> I presented my recent paper <em><a href="https://dl.acm.org/doi/10.1145/3742901.3742917">Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration</a></em> at the 2025 EduCHI Symposium in Bloomington, Indiana! Read an overview of the event from the hosting Luddy School of Informatics <a href="https://news.iu.edu/luddy/live/news/46734-prestigious-educhi-2025-highlights-luddy-schools">here</a>.</p>
+
+<p><strong>May 2025:</strong> I successfully passed my preliminary exam and advanced to Ph.D. candidacy in Computer Science at Virginia Tech! This milestone marks an exciting step toward completing my dissertation, and I am grateful for the support and guidance of my committee and colleagues throughout the process.</p>
+
+<p><strong>Apr 2025:</strong> Two Late-Breaking Work papers from our lab were accepted at CHI 2025 in Yokohama, Japan. I am the first author of <em><a href="https://dl.acm.org/doi/10.1145/3706599.3719751">Understanding the Creation of Human-Virtual Entity Bonds through the AR Mobile Game Peridot</a></em>, and contributed as a co-author to <a href="https://dl.acm.org/doi/10.1145/3706599.3721215">another LBW paper</a>.</p>
+
+<p><strong>Feb 2025:</strong> I took part in the 56th ACM Technical Symposium on Computer Science Education (SIGCSE TS 2025) in Pittsburgh, Pennsylvania, where I shared my paper <em><a href="https://dl.acm.org/doi/10.1145/3641554.3701845">Diary Study as an Educational Tool: An Experience Report from an HCI Course</a></em>.</p>
+
+<p><strong>Feb 2025:</strong> I was invited to give a talk at the 56th ACM Technical Symposium on Computer Science Education (SIGCSE TS 2025) in Pittsburgh, Pennsylvania. As part of the Birds of a Feather session on <em><a href="https://sigcse2025.sigcse.org/details/sigcse-ts-2025-affiliated-events/4/Accessibility-and-Disability-in-CS-Education">Accessibility and Disability in CS Education</a></em>, I presented <em>Integrating Disability Considerations into Design Raising Awareness and Building Inclusivity</em>.</p>
 
 
 
-  <p><strong>July 2025:</strong> I will be at the <a href="#">2025 ACM RESPECT conference</a> as a discussant for the doctoral consortium! Say hello :)</p>
 
-  <p><strong>April 2025:</strong> Invited talk at the <a href="#">ATLAS Colloquium</a> at CU Boulder. I gave a talk titled <em>Toward Critical, Ethical, Reflective, and Creative HCI Education Futures</em>.</p>
-
-  <p><strong>Jan 2025:</strong> In collaboration with <a href="#">AiiCE</a>, I moderated a <a href="#">panel</a> with authors from our <em>Teaching Accessible Computing</em> book project.</p>
-</div>
+ 
 
 <hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
 
