@@ -132,7 +132,7 @@ Education in HCI Outdoors: A Diary Study Approach
 <!-- Instructor of Record -->
 <div style="margin:1rem 0;">
   <div style="font-weight:700; font-size:1.1em; margin-bottom:0.5rem;">
-    As Instructor of Record
+    As Leading Instructor
   </div>
   <ul style="margin:0; padding-left:1.2rem;">
     <li>CS3604: Professionalism in Computing, Virginia Tech — Fall 2023, Fall 2024</li>
@@ -180,30 +180,19 @@ Education in HCI Outdoors: A Diary Study Approach
     </li>
 
     <li>
-      <strong>FIE 2025 Full Paper</strong><br>
-      <em>Optimizing Diary Studies Learning Outcomes with Fine-tuned Large Language Models on the DiaryQuest Platform</em><br>
-      (coming soon)
-    </li>
-
-    <li>
       <strong>CSCW 2025 Poster</strong><br>
       <em>Structuring Collaborative Reflection: Integrating Diary Study and Focus Group Discussion</em><br>
       (coming soon)
     </li>
 
+    <li>
+      <strong>FIE 2025 Full Paper</strong><br>
+      <em>Optimizing Diary Studies Learning Outcomes with Fine-tuned Large Language Models on the DiaryQuest Platform</em><br>
+      (coming soon)
+    </li>
+
   </ul>
 </div>
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 <span id="cv" style="position:relative; top:-84px;"></span>
