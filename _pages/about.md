@@ -2,7 +2,7 @@
 permalink: /
 classes: wide
 sidebar: false
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
