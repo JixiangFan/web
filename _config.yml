@@ -25,11 +25,11 @@ author:
   avatar           : "Fan_Jixiang.JPG"
   name             : "Jixiang Fan | 范积祥"
   # pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate<br><em>Computer Science</em><br><em>Virginia Tech</em>"
+  bio              : "Ph.D. Candidate<br><em>Computer Science</em><br><em>Virginia Tech</em><br><em>jfan12@vt.edu</em>"
   # location         : "Blacksburg, Virginia"
   # employer         : "Virginia Tech"
   # uri              : "jfan12@vt.edu"
-  email            : "<a href="mailto:jfan12@vt.edu">jfan12@vt.edu</a>"
+  # email            : "<a href="mailto:jfan12@vt.edu">jfan12@vt.edu</a>"
 
   # Academic websites
   academia         : # URL
