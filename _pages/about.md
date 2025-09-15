@@ -154,7 +154,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
 
 Below are a few of my publications. All conference proceedings listed are strictly peer-reviewed, archival works.
 
-For a full list of my papers, refer to my [publications page](/publications/)
+For a full list of my papers, refer to my [publications page](publications.html)
 
 Diary Study as an Educational Tool: An Experience Report from an HCI Course  
 **Fan, Jixiang**, Derek Haqq, Morva Saaty, Wei-Lu Wang, and D. Scott McCrickard. (2025)  
