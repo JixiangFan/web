@@ -1,4 +1,10 @@
---- permalink: / author_profile: true redirect_from: - /about/ - /about.html ---
+---
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 
 I am a **Human–Computer Interaction education researcher**. My work explores how **diary studies** and **focus group discussions** can serve as pedagogical tools to foster **empathy, reflection, and collaborative design skills** in computing education. I pursue ways to make HCI concepts more tangible for students by bridging individual lived experience with group-based learning. Drawing from computer science education research, design theory, psychology of empathy, and learning sciences, I develop frameworks and tools—such as DiaryQuest—that integrate qualitative methods with computational analysis to support both teaching and research. I often collaborate with faculty and undergraduate researchers to design, evaluate, and refine these approaches, creating equitable learning environments where students learn to see technology through the eyes of diverse users.
