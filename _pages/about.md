@@ -10,7 +10,7 @@ redirect_from:
   .section { scroll-margin-top: 72px; }         /* 固定导航遮挡的偏移，可按你的导航高度调 */
 </style>
 
-
+**About**
 Hello! I’m **Jixiang Fan**, a Ph.D. candidate in Computer Science at Virginia Tech, working with [Dr. D. Scott McCrickard](https://people.cs.vt.edu/mccricks/) in the [Center for Human–Computer Interaction (CHCI)](https://hci.icat.vt.edu/). My research lies at the intersection of <u>Human–Computer Interaction (HCI)</u> and <u>Computing Education Research (CER)</u>, where I explore how diary studies and focus group discussions can be used as pedagogical tools to foster empathy, reflection, and collaborative design skills in computing education. I develop frameworks (PCAR Framework) and tools (DiaryQuest) that integrate qualitative methods with computational analysis, aiming to make HCI concepts more tangible for students. My work has been disseminated across multiple venues, including full paper at the ACM Technical Symposium on Computer Science Education (SIGCSE TS), as well as other conferences that connect the HCI and computing education communities.
 
 I earned my M.S. in [Computer Science from Virginia Tech](https://cs.vt.edu/), and my B.S. degrees in [Computer Science](https://www.cs.umd.edu/) and [Economics](https://www.econ.umd.edu/) from the University of Maryland – College Park. At Virginia Tech, I have served as a leading instructor for Professionalism in Computing (CS3604), guiding nearly 200 undergraduates in exploring ethical, social, and professional dimensions of computing. In addition, I have been a Teaching Assistant for twelve semesters across courses ranging from introductory programming (CS1 and CS2) and data structures to advanced Human–Computer Interaction. Beyond the classroom, I actively mentor undergraduate researchers, supporting student-led projects that have resulted in conference papers, posters, and student research competitions. I also hold the Future Professoriate Certificate from the Virginia Tech Graduate School and am a member of the Virginia Tech Academy for Graduate Teaching Assistant Excellence (VT GrATE).
@@ -43,6 +43,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
 <hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
 
 ---
+<span id="publications" style="position:relative; top:-84px;"></span>
 
 **Publications**
 ======
