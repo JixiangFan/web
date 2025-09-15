@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-I am a **Human–Computer Interaction education researcher** working with [**Dr. D. Scott McCrickard**](https://people.cs.vt.edu/mccricks/) at the Virginia Tech Department of Computer Science for my doctoral studies. My work explores how **diary studies** and **focus group discussions** can serve as pedagogical tools to foster empathy, reflection, and collaborative design skills in computing education. I pursue ways to make HCI concepts more tangible for students by bridging individual lived experience with group-based learning. Drawing from computer science education research, design theory, psychology of empathy, and learning sciences, I develop frameworks and tools—such as DiaryQuest—that integrate qualitative methods with computational analysis to support both teaching and research. I often collaborate with faculty and undergraduate researchers to design, evaluate, and refine these approaches, creating equitable learning environments where students learn to see technology through the eyes of diverse users.
+I am a **Human–Computer Interaction education researcher** working with [Dr. D. Scott McCrickard](https://people.cs.vt.edu/mccricks/) at the Virginia Tech Department of Computer Science for my doctoral studies. My work explores how **diary studies** and **focus group discussions** can serve as pedagogical tools to foster empathy, reflection, and collaborative design skills in computing education. I pursue ways to make HCI concepts more tangible for students by bridging individual lived experience with group-based learning. Drawing from computer science education research, design theory, psychology of empathy, and learning sciences, I develop frameworks and tools—such as DiaryQuest—that integrate qualitative methods with computational analysis to support both teaching and research. I often collaborate with faculty and undergraduate researchers to design, evaluate, and refine these approaches, creating equitable learning environments where students learn to see technology through the eyes of diverse users.
 
 I am a **leading instructor** with experience teaching Professionalism in Computing (CS3604) for two semesters, guiding nearly 200 undergraduate students in exploring ethical, social, and professional dimensions of computing. In addition, I have served as a Teaching Assistant for twelve semesters across a wide range of undergraduate and graduate computer science courses, including introductory programming (CS1 and CS2), data structures and algorithms, and advanced courses in Human–Computer Interaction. Beyond classroom teaching, I actively mentor undergraduate researchers, supporting student-led projects that have resulted in conference papers, posters, and student research competitions. I hold the Future Professoriate Certificate from the Virginia Tech Graduate School and am an active member of the Virginia Tech Academy for Graduate Teaching Assistant Excellence (VT GrATE). My teaching philosophy emphasizes cultivating enthusiasm for computing while fostering reflective thinking, professional growth, and long-term career development.
 
@@ -35,25 +35,20 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
 
 <p><strong>Feb 2025:</strong> I was invited to give a talk at the 56th ACM Technical Symposium on Computer Science Education (SIGCSE TS 2025) in Pittsburgh, Pennsylvania. As part of the Birds of a Feather session on <em><a href="https://sigcse2025.sigcse.org/details/sigcse-ts-2025-affiliated-events/4/Accessibility-and-Disability-in-CS-Education">Accessibility and Disability in CS Education</a></em>, I presented <em>Integrating Disability Considerations into Design Raising Awareness and Building Inclusivity</em>.</p>
 
-
-
-
- 
-
-
-
 </div>
-
 
 <hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
 
+---
+
+**Research**
+======
 
 
+THIsdhjianadnfjoasdnocisnc asdjiocancioanc anociasncao cnoancsa
 
 
-
-
-
+---
 
 
 
