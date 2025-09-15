@@ -1,10 +1,17 @@
+---
+layout: home
+permalink: /
+title: "Jixiang Fan"
+author_profile: true
+---
+
+
 I am a **Human–Computer Interaction education researcher**. My work explores how **diary studies** and **focus group discussions** can serve as pedagogical tools to foster **empathy, reflection, and collaborative design skills** in computing education. I pursue ways to make HCI concepts more tangible for students by bridging individual lived experience with group-based learning. Drawing from computer science education research, design theory, psychology of empathy, and learning sciences, I develop frameworks and tools—such as DiaryQuest—that integrate qualitative methods with computational analysis to support both teaching and research. I often collaborate with faculty and undergraduate researchers to design, evaluate, and refine these approaches, creating equitable learning environments where students learn to see technology through the eyes of diverse users.
 
 I am a **leading instructor** with experience teaching **Professionalism in Computing (CS3604)** for two semesters, guiding nearly 200 undergraduate students in exploring ethical, social, and professional dimensions of computing. In addition, I have served as a Teaching Assistant for **twelve semesters** across a wide range of undergraduate and graduate computer science courses, including introductory programming (**CS1 and CS2**), data structures and algorithms, and advanced courses in **Human–Computer Interaction**. I hold the **Future Professoriate Certificate** from the Virginia Tech Graduate School and am an active member of the **Virginia Tech Academy for Graduate Teaching Assistant Excellence (VT GrATE)**. My teaching philosophy emphasizes cultivating **enthusiasm for computing** while fostering **reflective thinking**, **professional growth**, and **long-term career development**.
 
 I am expected to graduate in **2026** and am actively seeking **postdoctoral** or **academic opportunities**. I would be delighted to connect about potential openings, collaborations, or shared research interests. Please feel free to reach out to me at jfan12@vt.edu.
 
-**======**
 
 
 
