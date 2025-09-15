@@ -12,7 +12,7 @@ redirect_from:
 
 <strong style="font-weight:900; font-size:1.3em;">About</strong>
 
-Hello! I’m **Jixiang Fan**, a Ph.D. candidate in Computer Science at Virginia Tech, working with [Dr. D. Scott McCrickard](https://people.cs.vt.edu/mccricks/) in the [Center for Human–Computer Interaction (CHCI)](https://hci.icat.vt.edu/). My research lies at the intersection of <u>Human–Computer Interaction (HCI)</u> and <u>Computing Education Research (CER)</u>, where I explore how diary studies and focus group discussions can be used as pedagogical tools to foster empathy, reflection, and collaborative design skills in computing education. I develop frameworks (PCAR Framework) and tools (DiaryQuest) that integrate qualitative methods with computational analysis, aiming to make HCI concepts more tangible for students. My work has been disseminated across multiple venues, including full paper at the ACM Technical Symposium on Computer Science Education (SIGCSE TS), as well as other conferences that connect the HCI and computing education communities.
+Hello! I’m **Jixiang Fan**, a Ph.D. candidate in Computer Science at Virginia Tech, working with [Dr. D. Scott McCrickard](https://people.cs.vt.edu/mccricks/) in the [Center for Human–Computer Interaction (CHCI)](https://hci.icat.vt.edu/). My research lies at the intersection of <u>Human–Computer Interaction (HCI)</u> and <u>Computing Education Research (CER)</u>, where I explore how diary studies and focus group discussions can be used as pedagogical tools to foster empathy, reflection, and collaborative design skills in computing education. I develop frameworks (PCAR Framework) and tools (DiaryQuest, DiaryLib) that integrate qualitative methods with computational analysis, aiming to make HCI concepts more tangible for students. My work has been disseminated across multiple venues, including full paper at the ACM Technical Symposium on Computer Science Education (SIGCSE TS), as well as other conferences that connect the HCI and computing education communities.
 
 I earned my M.S. in [Computer Science from Virginia Tech](https://cs.vt.edu/), and my B.S. degrees in [Computer Science](https://www.cs.umd.edu/) and [Economics](https://www.econ.umd.edu/) from the University of Maryland – College Park. At Virginia Tech, I have served as a leading instructor for Professionalism in Computing (CS3604), guiding nearly 200 undergraduates in exploring ethical, social, and professional dimensions of computing. In addition, I have been a Teaching Assistant for twelve semesters across courses ranging from introductory programming (CS1 and CS2) and data structures to advanced Human–Computer Interaction. Beyond the classroom, I actively mentor undergraduate researchers, supporting student-led projects that have resulted in conference papers, posters, and student research competitions. I also hold the Future Professoriate Certificate from the Virginia Tech Graduate School and am a member of the Virginia Tech Academy for Graduate Teaching Assistant Excellence (VT GrATE).
 
@@ -48,7 +48,22 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
 <span id="research" style="position:relative; top:-84px;"></span>
 <strong style="font-weight:900; font-size:1.3em;">Research</strong>
 
-asdadasdasda
+<!-- Pedagogical Methods & Tools for HCI Education -->
+<div style="margin:1rem 0;">
+  <div style="font-weight:700; font-size:1.1em; margin-bottom:0.35rem;">
+    Pedagogical Methods &amp; Tools for HCI Education
+  </div>
+  <p style="margin:0.25rem 0;">
+    This branch of my research develops and evaluates pedagogical frameworks that use diary studies and
+    focus group discussions as central methods for teaching human–computer interaction. A key outcome of
+    this work is the <strong>PCAR (Plan–Collect–Analyze–Reflect) diary study framework</strong>, introduced and refined through
+    classroom implementations and published at SIGCSE TS 2025. PCAR provides a structured process not only
+    for <strong>students</strong> to document and analyze their technology use and engage in collaborative reflection, but also for
+    <strong>educators</strong> to integrate diary studies into course design and assessment, and for <strong>researchers</strong> to plan,
+    manage, and analyze diary-based studies systematically. I also design, build, and assess software tools (e.g., DiaryQuest, DiaryLib)
+    that operationalize these methods and make them scalable within HCI curricula.
+  </p>
+</div>
 
 
 
