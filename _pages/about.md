@@ -49,25 +49,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
 **Research**
 
 
-
-
-
-
-
-
-
 asdadasdasda
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -144,10 +126,29 @@ Education in HCI Outdoors: A Diary Study Approach
 <a href="https://dl.acm.org/doi/10.1145/3658619.3658621">ACM Digital Library Link</a>
 
 ---
+<span id="teaching" style="position:relative; top:-84px;"></span>
+**Teaching**
+
+
+asdadasdasda
 
 
 
+---
+<span id="cv" style="position:relative; top:-84px;"></span>
+**CV**
+
+
+asdadasdasda
 
 
 
+---
+<span id="contact" style="position:relative; top:-84px;"></span>
+**Contact Me**
 
+
+asdadasdasda
+
+
+---
