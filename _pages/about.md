@@ -20,7 +20,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
 
 ---
 <span id="news" style="position:relative; top:-84px;"></span>
-**News &amp; Talks**
+<strong style="font-weight:900; font-size:1.3em;">News &amp; Talks</strong>
 
 <hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
 
