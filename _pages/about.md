@@ -65,6 +65,54 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
   </p>
 </div>
 
+<!-- Supporting Students’ Metacognitive Growth in Design and Computing -->
+<div style="margin:1rem 0;">
+  <div style="font-weight:700; font-size:1.1em; margin-bottom:0.35rem;">
+    Supporting Students’ Metacognitive Growth in Design and Computing
+  </div>
+  <p style="margin:0.25rem 0;">
+    This branch of my research examines how students develop metacognitive awareness—how they understand
+    and regulate their own learning processes—when engaging in reflective practices. In HCI contexts, I have
+    emphasized changes in empathy as a measurable outcome, using instruments such as the Empathy in Design
+    Scale to track growth across individual and group learning stages. Looking ahead, I aim to extend this work
+    beyond design courses to coding and related computing curricula, using diary study as a framework to
+    investigate how students monitor, reflect on, and adapt their approaches to programming. This line of
+    research seeks to capture a broader set of cognitive and affective factors that shape students’ ability to
+    critically evaluate problems, strategies, and user needs in both design and coding contexts.
+  </p>
+</div>
+
+<!-- Preparing Students for Real-World Computing Practice -->
+<div style="margin:1rem 0;">
+  <div style="font-weight:700; font-size:1.1em; margin-bottom:0.35rem;">
+    Preparing Students for Real-World Computing Practice
+  </div>
+  <p style="margin:0.25rem 0;">
+    This branch of my research connects classroom learning to professional contexts, emphasizing how computing
+    students develop the skills needed to succeed in industry. In addition to professional competencies such as
+    collaboration, communication, and ethical awareness, I am also interested in how students can be better prepared
+    to engage with the technical realities of software development in practice—for example, how large teams divide
+    responsibilities across modules, how APIs are designed and interpreted across groups, and how organizational
+    structures shape coding practices. Drawing on my own industry experience and ongoing exchanges with computing
+    professionals, I am interested in exploring educational practices that integrate both technical and professional
+    dimensions, helping students bridge theory and practice as they prepare for the complexities of real-world computing work.
+  </p>
+</div>
+
+<!-- Other Areas -->
+<div style="margin:1rem 0;">
+  <div style="font-weight:700; font-size:1.1em; margin-bottom:0.35rem;">
+    Other Areas
+  </div>
+  <p style="margin:0.25rem 0;">
+    Here are some additional areas I am interested in exploring:
+  </p>
+  <ul style="margin:0; padding-left:1.2rem;">
+    <li>Games as a medium for HCI education and reflection, particularly how playful contexts can scaffold empathy, collaboration, and critical thinking.</li>
+    <li>The integration of artificial intelligence into computing education in ways that are pedagogically meaningful, ethically responsible, and supportive of students’ learning rather than replacing it.</li>
+    <li>Emerging modalities in immersive learning environments, such as <strong>VR with olfactory interfaces</strong>, and their potential to expand sensory dimensions of educational experiences.</li>
+  </ul>
+</div>
 
 
 ---
