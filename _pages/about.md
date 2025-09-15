@@ -57,6 +57,34 @@ Diary Study as an Educational Tool: An Experience Report from an HCI Course
 
 
 
+Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration  
+**Fan, Jixiang**, Wei-Lu Wang, Natalie Andrus, Yusheng Cao, Morva Saaty, Shiva Ghasemi, Lei Xia, and Scott McCrickard. (2025)  
+<span style="display:inline-block; padding:2px 6px; font-size:90%; 
+             font-weight:600; border:1px solid #ccc; border-radius:6px; 
+             background:#e6f2ff; margin-right:6px;">
+  EduCHI 2025
+</span>
+<a href="https://dl.acm.org/doi/10.1145/3742901.3742917">ACM Digital Library Link</a>
+
+Understanding the Creation of Human-Virtual Entity Bonds through the AR Mobile Game Peridot  
+**Fan, Jixiang**, Yusheng Cao, Morva Saaty, Wei-Lu Wang, Lei Xia, Huayi Liu, and D. Scott McCrickard. (2025)  
+<span style="display:inline-block; padding:2px 6px; font-size:90%; 
+             font-weight:600; border:1px solid #ccc; border-radius:6px; 
+             background:#e6f2ff; margin-right:6px;">
+  CHI 2025 LBW
+</span>
+<a href="https://dl.acm.org/doi/10.1145/3706599.3719751">ACM Digital Library Link</a>
+
+
+Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education  
+**Fan, Jixiang**, and Scott McCrickard. (2025)  
+<span style="display:inline-block; padding:2px 6px; font-size:90%; 
+             font-weight:600; border:1px solid #ccc; border-radius:6px; 
+             background:#e6f2ff; margin-right:6px;">
+  ICER 2025
+</span>
+<a href="https://dl.acm.org/doi/10.1145/3702653.3744312">ACM Digital Library Link</a>
+
 
 ---
 
