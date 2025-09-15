@@ -27,7 +27,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
   
 <p><strong>Aug 2025:</strong> I presented my recent paper <em><a href="https://dl.acm.org/doi/10.1145/3742901.3742917">Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration</a></em> at the 2025 EduCHI Symposium in Bloomington, Indiana! Read an overview of the event from the hosting Luddy School of Informatics <a href="https://news.iu.edu/luddy/live/news/46734-prestigious-educhi-2025-highlights-luddy-schools">here</a>.</p>
 
-<p><strong>May 2025:</strong> I successfully passed my preliminary exam and advanced to Ph.D. candidacy in Computer Science at Virginia Tech! This milestone marks an exciting step toward completing my dissertation, and I am grateful for the support and guidance of my committee and colleagues throughout the process.</p>
+<p><strong>May 2025:</strong> I successfully passed my preliminary exam and advanced to Ph.D. candidacy in Computer Science at Virginia Tech!</p>
 
 <p><strong>Apr 2025:</strong> Two Late-Breaking Work papers from our lab were accepted at CHI 2025 in Yokohama, Japan. I am the first author of <em><a href="https://dl.acm.org/doi/10.1145/3706599.3719751">Understanding the Creation of Human-Virtual Entity Bonds through the AR Mobile Game Peridot</a></em>, and contributed as a co-author to <a href="https://dl.acm.org/doi/10.1145/3706599.3721215">another LBW paper</a>.</p>
 
@@ -40,12 +40,12 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
 
  
 
-<hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
+
 
 </div>
 
 
-
+<hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
 
 
 
