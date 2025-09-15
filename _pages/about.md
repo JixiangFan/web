@@ -135,7 +135,12 @@ asdadasdasda
 <span id="cv" style="position:relative; top:-84px;"></span>
 <strong style="font-weight:900; font-size:1.3em;">CV</strong>
 
-asdadasdasda
+<p>
+  The most current version of my CV can be found at this link:  
+  <a href="/files/Jixiang___CV.pdf" target="_blank">
+    <strong>Sep 2025 CV (pdf)</strong>
+  </a>
+</p>
 
 
 
