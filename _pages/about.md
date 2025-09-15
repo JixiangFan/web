@@ -5,6 +5,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  :root { scroll-behavior: smooth; }            /* 平滑滚动 */
+  .section { scroll-margin-top: 72px; }         /* 固定导航遮挡的偏移，可按你的导航高度调 */
+</style>
+
 
 Hello! I’m **Jixiang Fan**, a Ph.D. candidate in Computer Science at Virginia Tech, working with [Dr. D. Scott McCrickard](https://people.cs.vt.edu/mccricks/) in the [Center for Human–Computer Interaction (CHCI)](https://hci.icat.vt.edu/). My research lies at the intersection of <u>Human–Computer Interaction (HCI)</u> and <u>Computing Education Research (CER)</u>, where I explore how diary studies and focus group discussions can be used as pedagogical tools to foster empathy, reflection, and collaborative design skills in computing education. I develop frameworks (PCAR Framework) and tools (DiaryQuest) that integrate qualitative methods with computational analysis, aiming to make HCI concepts more tangible for students. My work has been disseminated across multiple venues, including full paper at the ACM Technical Symposium on Computer Science Education (SIGCSE TS), as well as other conferences that connect the HCI and computing education communities.
 
@@ -17,7 +22,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
 **News &amp; Talks**
 <hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
 
-<div class="news-box"
+<div id="news" class="news-box"
      style="height:350px; overflow-y:auto; padding:0.25rem 0.5rem;
             border-top:0; border-bottom:0;">
 
@@ -109,11 +114,10 @@ Education in HCI Outdoors: A Diary Study Approach
 </span>
 <a href="https://dl.acm.org/doi/10.1145/3658619.3658621">ACM Digital Library Link</a>
 
-
-
 ---
 
-
+**Publications**
+======
 
 
 
