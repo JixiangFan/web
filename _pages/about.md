@@ -85,7 +85,7 @@ Wei-Lu Wang, Natalie Andrus, Taha Hassan, **Jixiang Fan**, Yusheng Cao, Joelle A
              background:#e6f2ff; margin-right:6px;">
   CSCW 2025
 </span>
-<a href="https://dl.acm.org/doi/10.1145/XXXXX">ACM Digital Library Link</a>
+(coming soon)
 
 Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education  
 **Fan, Jixiang**, and D. Scott McCrickard. (2025)  
@@ -112,7 +112,7 @@ Structuring Collaborative Reflection: Integrating Diary Study and Focus Group Di
              background:#e6f2ff; margin-right:6px;">
   CSCW 2025
 </span>
-<a href="https://dl.acm.org/doi/10.1145/XXXXX">ACM Digital Library Link</a>
+(coming soon)
 
 Education in HCI Outdoors: A Diary Study Approach  
 **Fan, Jixiang**, Morva Saaty, and D. Scott McCrickard. (2024)  
