@@ -18,11 +18,11 @@ I earned my M.S. in [Computer Science from Virginia Tech](https://cs.vt.edu/), a
 I am expected to graduate in **2026** and am actively seeking **postdoctoral or academic opportunities**. I would be delighted to connect about potential openings, collaborations, or shared research interests. Please feel free to reach out to me at [jfan12@vt.edu](mailto:jfan12@vt.edu).
 
 ---
-
+<span id="news" style="position:relative; top:-84px;"></span>
 **News &amp; Talks**
 <hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
 
-<div id="news" class="news-box"
+<div class="news-box"
      style="height:350px; overflow-y:auto; padding:0.25rem 0.5rem;
             border-top:0; border-bottom:0;">
 
