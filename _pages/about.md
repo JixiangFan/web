@@ -31,7 +31,14 @@ redirect_from:
     max-width: 1100px !important;   /* 你可以调大/调小，比如 1200 */
     margin: 0 auto;                 /* 保持居中 */
   }
+
+  /* 覆盖头像样式：保持原图方形 */
+  .author__avatar img {
+    border-radius: 0 !important;    /* 不要圆角 */
+    object-fit: contain !important; /* 避免剪切 */
+  }
 </style>
+
 
 
 
