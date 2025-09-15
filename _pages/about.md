@@ -47,9 +47,9 @@ Below are a few of my most recent publications. All conference proceedings liste
 For a full list of my papers, refer to my [publications page](/publications/)
 
 Design as Translation, Translation as Design: Toward Critical, Creative, and Ethical Pedagogies
-Alannah Oleson, Laurel Taylor (2025)
-EduCHI Symposium on Human-Computer Interaction Education
-[ACM DL Link]
+Alannah Oleson, Laurel Taylor, Jixiang Fan (2025)  
+EduCHI Symposium on Human-Computer Interaction Education  
+[ACM Digital Library Link](https://dl.acm.org/doi/10.1145/XXXXX)  
 
 ---
 
