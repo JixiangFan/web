@@ -1,7 +1,7 @@
 ---
-layout: home
-permalink: /
-title: "Jixiang Fan"
+layout: single
+title: "About"
+permalink: /about/
 author_profile: true
 ---
 
