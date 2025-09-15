@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Diary Study as an Educational Tool: An Experience Report from an HCI Course"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/sigcse2025-diary-study
+date: 2025-02-26   
+venue: "Proceedings of the 56th ACM Technical Symposium on Computer Science Education (SIGCSE TS 2025), February 26 – March 1, 2025"
+paperurl: "https://dl.acm.org/doi/10.1145/3641554.3701845"
+excerpt: 'Published at SIGCSE TS 2025. [ACM DL link](https://dl.acm.org/doi/10.1145/3641554.3701845)'
+citation: 'Fan, J., Haqq, D., Saaty, M., Wang, W. L., & McCrickard, S. (2025). Diary Study as an Educational Tool: An Experience Report from an HCI Course. Proceedings of the 56th ACM Technical Symposium on Computer Science Education, 311–317. ACM.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
