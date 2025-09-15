@@ -145,8 +145,8 @@ Education in HCI Outdoors: A Diary Study Approach
     As Graduate Teaching Assistant
   </div>
   <ul style="margin:0; padding-left:1.2rem;">
-    <li>CS1114: Introduction to Software Design(Leading Code Lab Sessions)</li>
-    <li>CS2114: Software Design & Data Structures(Leading Code Lab Sessions)</li>
+    <li>CS1114: Introduction to Software Design (Leading Code Lab Sessions)</li>
+    <li>CS2114: Software Design & Data Structures (Leading Code Lab Sessions)</li>
     <li>CS3114: Data Structures & Algorithms</li>
     <li>CS3724: Introduction to HCI</li>
     <li>CS4094: Computer Science Capstone</li>
@@ -154,6 +154,56 @@ Education in HCI Outdoors: A Diary Study Approach
     <li>CS5724: Models & Theories of HCI</li>
   </ul>
 </div>
+
+
+<!-- Research Mentoring -->
+<div style="margin:1rem 0;">
+  <div style="font-weight:700; font-size:1.1em; margin-bottom:0.5rem;">
+    As Research Mentor
+  </div>
+  <p>
+    I have mentored undergraduate and graduate students on research projects that resulted in publications,
+    posters, and student research competition papers at major venues.
+  </p>
+  <ul style="margin:0; padding-left:1.2rem;">
+
+    <li>
+      <strong>SIGCSE TS 2025 Student Research Competition</strong><br>
+      <em>DiaryQuest: A Web-Based Learning System Utilizing Diary Study</em><br>
+      <a href="https://dl.acm.org/doi/10.1145/3641555.3705023" target="_blank">ACM Digital Library Link</a>
+    </li>
+
+    <li>
+      <strong>CHI 2025 Student Research Competition</strong><br>
+      <em>Boosting Diary Study Outcomes with a Fine-Tuned Large Language Model</em><br>
+      <a href="https://dl.acm.org/doi/10.1145/3706599.3719287" target="_blank">ACM Digital Library Link</a>
+    </li>
+
+    <li>
+      <strong>FIE 2025 Full Paper</strong><br>
+      <em>Optimizing Diary Studies Learning Outcomes with Fine-tuned Large Language Models on the DiaryQuest Platform</em><br>
+      (coming soon)
+    </li>
+
+    <li>
+      <strong>CSCW 2025 Poster</strong><br>
+      <em>Structuring Collaborative Reflection: Integrating Diary Study and Focus Group Discussion</em><br>
+      (coming soon)
+    </li>
+
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 <span id="cv" style="position:relative; top:-84px;"></span>
