@@ -19,6 +19,9 @@ main:
 
   - title: "Teaching"
     url: "/#teaching" 
+
+  - title: "CV"
+    url: "/#cv" 
     
   - title: "Contact"
     url: "/#contact"   
@@ -29,8 +32,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-   #- title: "CV"
-  # url: /cv/
+
     
   # - title: "CV"
   #   url: /cv-json/
