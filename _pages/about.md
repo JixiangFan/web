@@ -10,7 +10,7 @@ redirect_from:
   .section { scroll-margin-top: 72px; }         /* 固定导航遮挡的偏移，可按你的导航高度调 */
 </style>
 
-**About**
+<strong style="font-weight:900; font-size:1.3em;">About</strong>
 
 Hello! I’m **Jixiang Fan**, a Ph.D. candidate in Computer Science at Virginia Tech, working with [Dr. D. Scott McCrickard](https://people.cs.vt.edu/mccricks/) in the [Center for Human–Computer Interaction (CHCI)](https://hci.icat.vt.edu/). My research lies at the intersection of <u>Human–Computer Interaction (HCI)</u> and <u>Computing Education Research (CER)</u>, where I explore how diary studies and focus group discussions can be used as pedagogical tools to foster empathy, reflection, and collaborative design skills in computing education. I develop frameworks (PCAR Framework) and tools (DiaryQuest) that integrate qualitative methods with computational analysis, aiming to make HCI concepts more tangible for students. My work has been disseminated across multiple venues, including full paper at the ACM Technical Symposium on Computer Science Education (SIGCSE TS), as well as other conferences that connect the HCI and computing education communities.
 
@@ -46,8 +46,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
 ---
 
 <span id="research" style="position:relative; top:-84px;"></span>
-**Research**
-
+<strong style="font-weight:900; font-size:1.3em;">Research</strong>
 
 asdadasdasda
 
@@ -55,8 +54,7 @@ asdadasdasda
 
 ---
 <span id="publications" style="position:relative; top:-84px;"></span>
-**Publications**
-
+<strong style="font-weight:900; font-size:1.3em;">Publications</strong>
 
 Below are a few of my publications. All conference proceedings listed are strictly peer-reviewed, archival works.
 
@@ -127,8 +125,7 @@ Education in HCI Outdoors: A Diary Study Approach
 
 ---
 <span id="teaching" style="position:relative; top:-84px;"></span>
-**Teaching**
-
+<strong style="font-weight:900; font-size:1.3em;">Teaching</strong>
 
 asdadasdasda
 
@@ -136,8 +133,7 @@ asdadasdasda
 
 ---
 <span id="cv" style="position:relative; top:-84px;"></span>
-**CV**
-
+<strong style="font-weight:900; font-size:1.3em;">CV</strong>
 
 asdadasdasda
 
@@ -145,8 +141,7 @@ asdadasdasda
 
 ---
 <span id="contact" style="position:relative; top:-84px;"></span>
-**Contact Me**
-
+<strong style="font-weight:900; font-size:1.3em;">Contact Me</strong>
 
 asdadasdasda
 
