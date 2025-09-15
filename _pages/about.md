@@ -20,32 +20,18 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
 
 <div class="news-box"
      style="height:200px; overflow-y:auto; padding:0.25rem 0.5rem;
-            border-top:0; border-bottom:2px solid #333;">
-  <dl class="news-list" style="margin:.5rem 0;">
-    <dt style="font-weight:700; margin-top:.6rem;">Aug 2025</dt>
-    <dd style="margin:0 0 .6rem 0; line-height:1.45;">
-      With DU colleague <a href="#">Laurel Taylor</a>, I presented my paper
-      <em>Design as Translation, Translation as Design: Toward Critical, Creative, and Ethical Pedagogies</em>
-      at EduCHI 2025. Read the event recap <a href="#">here</a>.
-    </dd>
+            border-top:0; border-bottom:0;">
+  <p><strong>Aug 2025:</strong> With DU colleague <a href="#">Laurel Taylor</a>, I presented my recent paper <em>Design as Translation, Translation as Design: Toward Critical, Creative, and Ethical Pedagogies</em> at the 2025 EduCHI Symposium in Bloomington, Indiana! Read an overview of the event from the hosting Luddy School of Informatics <a href="#">here</a>.</p>
 
-    <dt style="font-weight:700; margin-top:.6rem;">July 2025</dt>
-    <dd style="margin:0 0 .6rem 0; line-height:1.45;">
-      I will be at the <a href="#">ACM RESPECT 2025</a> doctoral consortium as a discussant. Say hello :)
-    </dd>
+  <p><strong>July 2025:</strong> I will be at the <a href="#">2025 ACM RESPECT conference</a> as a discussant for the doctoral consortium! Say hello :)</p>
 
-    <dt style="font-weight:700; margin-top:.6rem;">April 2025</dt>
-    <dd style="margin:0 0 .6rem 0; line-height:1.45;">
-      Invited talk at the <a href="#">ATLAS Colloquium</a>, CU Boulder:
-      <em>Toward Critical, Ethical, Reflective, and Creative HCI Education Futures</em>.
-    </dd>
+  <p><strong>April 2025:</strong> Invited talk at the <a href="#">ATLAS Colloquium</a> at CU Boulder. I gave a talk titled <em>Toward Critical, Ethical, Reflective, and Creative HCI Education Futures</em>.</p>
 
-    <dt style="font-weight:700; margin-top:.6rem;">Jan 2025</dt>
-    <dd style="margin:0 0 .6rem 0; line-height:1.45;">
-      In collaboration with <a href="#">AiiCE</a>, I moderated a <a href="#">panel</a> on developing accessibility content knowledge for computing educators.
-    </dd>
-  </dl>
+  <p><strong>Jan 2025:</strong> In collaboration with <a href="#">AiiCE</a>, I moderated a <a href="#">panel</a> with authors from our <em>Teaching Accessible Computing</em> book project.</p>
 </div>
+
+<hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
+
 
 
 
