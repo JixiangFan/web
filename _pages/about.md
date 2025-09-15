@@ -6,8 +6,9 @@ redirect_from:
   - /about.html
 ---
 <style>
-  :root { scroll-behavior: smooth; }            /* 平滑滚动 */
-  .section { scroll-margin-top: 72px; }         /* 固定导航遮挡的偏移，可按你的导航高度调 */
+  :root { scroll-behavior: smooth; }          
+  .section { scroll-margin-top: 72px; }         
+  .page__content { max-width: 1100px;  }
 </style>
 
 <strong style="font-weight:900; font-size:1.3em;">About</strong>
