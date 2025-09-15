@@ -6,9 +6,28 @@ redirect_from:
   - /about.html
 ---
 <style>
-  :root { scroll-behavior: smooth; }          
-  .section { scroll-margin-top: 72px; }         
+  :root { 
+    scroll-behavior: smooth; 
+  }          
+  .section { 
+    scroll-margin-top: 72px; 
+  }
+
+  /* 字体和字号覆盖 */
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                 "Helvetica Neue", Arial, sans-serif !important;
+    font-size: 16px;      /* 可以改成 17px 或 18px，按你视觉偏好 */
+    line-height: 1.6;     /* 拉开行距，更容易阅读 */
+    color: #111;          /* 字色稍微深一点，清晰 */
+  }
+
+  /* 正文段落 */
+  .page__content p {
+    margin-bottom: 1em;   /* 段落间距 */
+  }
 </style>
+
 
 <strong style="font-weight:900; font-size:1.3em;">About</strong>
 
