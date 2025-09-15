@@ -19,7 +19,9 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
 <h2>News &amp; Talks</h2>
 <hr />
 
-<div class="news-box">
+<div div class="news-box"
+     style="max-height:240px;overflow-y:auto;padding:0.25rem 0.5rem;
+            border-top:2px solid #333;border-bottom:2px solid #333;">
   <dl class="news-list">
     <dt>Aug 2025</dt>
     <dd>With DU colleague <a href="#">Laurel Taylor</a>, I presented my paper <em>Design as Translation, Translation as Design: Toward Critical, Creative, and Ethical Pedagogies</em> at EduCHI 2025. Read the event recap <a href="#">here</a>.</dd>
