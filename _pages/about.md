@@ -137,7 +137,7 @@ asdadasdasda
 
 <p>
   The most current version of my CV can be found at this link:  
-  <a href="{{ site.baseurl }}/files/JixiangCV.pdf" target="_blank">
+  <a href="https://github.com/JixiangFan/web/raw/master/files/JixiangCV.pdf" target="_blank">
     <strong>Sep 2025 CV (pdf)</strong>
   </a>
 </p>
