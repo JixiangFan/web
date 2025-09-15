@@ -22,7 +22,9 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
 <div class="news-box"
      style="height:200px; overflow-y:auto; padding:0.25rem 0.5rem;
             border-top:0; border-bottom:0;">
-  <p><strong>Aug 2025:</strong> I presented my recent paper <em>[Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration](https://dl.acm.org/doi/pdf/10.1145/3742901.3742917)</em> at the 2025 EduCHI Symposium in Bloomington, Indiana! Read an overview of the event from the hosting Luddy School of Informatics [here](https://news.iu.edu/luddy/live/news/46734-prestigious-educhi-2025-highlights-luddy-schools).</p>
+  
+  <p><strong>Aug 2025:</strong> I presented my recent paper <em><a href="https://dl.acm.org/doi/pdf/10.1145/3742901.3742917">Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration</a></em> at the 2025 EduCHI Symposium in Bloomington, Indiana! Read an overview of the event from the hosting Luddy School of Informatics <a href="https://news.iu.edu/luddy/live/news/46734-prestigious-educhi-2025-highlights-luddy-schools">here</a>.</p>
+
 
 
   <p><strong>July 2025:</strong> I will be at the <a href="#">2025 ACM RESPECT conference</a> as a discussant for the doctoral consortium! Say hello :)</p>
