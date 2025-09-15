@@ -29,7 +29,7 @@ author:
   # location         : "Blacksburg, Virginia"
   # employer         : "Virginia Tech"
   # uri              : "jfan12@vt.edu"
-  email            : '<a href="mailto:jfan12@vt.edu">jfan12@vt.edu</a>' 
+  email            : "<a href="mailto:jfan12@vt.edu">jfan12@vt.edu</a>"
 
   # Academic websites
   academia         : # URL
