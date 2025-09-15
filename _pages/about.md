@@ -1,5 +1,7 @@
 ---
 permalink: /
+classes: wide
+sidebar: false
 author_profile: true
 redirect_from: 
   - /about/
