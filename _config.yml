@@ -25,7 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Jixiang Fan"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate (jfan12@vt.edu)"
+  bio              : "Ph.D. Candidate at Virginia Tech."
+                     "Reach out to me at jfan12@vt.edu."
   location         : "Blacksburg"
   employer         : "Virginia Tech"
   # uri              : "jfan12@vt.edu"
@@ -51,7 +52,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
