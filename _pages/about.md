@@ -42,7 +42,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
 
 <hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
 
-
+</div>
 
 
 
