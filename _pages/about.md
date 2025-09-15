@@ -19,8 +19,8 @@ I earned my M.S. in [Computer Science from Virginia Tech](https://cs.vt.edu/), a
 I am expected to graduate in **2026** and am actively seeking **postdoctoral or academic opportunities**. I would be delighted to connect about potential openings, collaborations, or shared research interests. Please feel free to reach out to me at [jfan12@vt.edu](mailto:jfan12@vt.edu).
 
 ---
-<span id="news" style="position:relative; top:-84px;"></span>
 **News &amp; Talks**
+<span id="news" style="position:relative; top:-84px;"></span>
 
 <hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
 
@@ -45,8 +45,8 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
 <hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
 
 ---
-<span id="publications" style="position:relative; top:-84px;"></span>
 **Publications**
+<span id="publications" style="position:relative; top:-84px;"></span>
 
 Below are a few of my publications. All conference proceedings listed are strictly peer-reviewed, archival works.
 
@@ -117,8 +117,6 @@ Education in HCI Outdoors: A Diary Study Approach
 
 ---
 
-**Publications**
-======
 
 
 
