@@ -41,3 +41,31 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* --- News & Talks panel --- */
+.news-box {
+  max-height: 240px;      
+  overflow-y: auto;       
+  padding: 0.25rem 0.5rem;
+  border-top: 2px solid #333;
+  border-bottom: 2px solid #333;
+}
+
+.news-list {
+  margin: 0.5rem 0;
+}
+
+.news-list dt {
+  font-weight: 700;
+  margin-top: 0.6rem;
+}
+
+.news-list dd {
+  margin-left: 0;
+  margin-bottom: 0.6rem;
+  line-height: 1.45;
+}
+
+.news-box a {
+  text-decoration: underline;
+}
