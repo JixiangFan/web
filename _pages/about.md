@@ -22,8 +22,10 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
 <div class="news-box"
      style="height:200px; overflow-y:auto; padding:0.25rem 0.5rem;
             border-top:0; border-bottom:0;">
+
+  <p><strong>Aug 2025:</strong> I presented my recent poster <em><a href="https://dl.acm.org/doi/10.1145/3702653.3744312">Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education</a></em> at the 21st ACM Conference on International Computing Education Research (ICER2025) in Charlottesville, Virginia! It was a wonderful  <a href="https://x.com/ICER_C/status/1952075497925484754">opportunity</a> to share my ongoing work and engage in insightful conversations with the computing education research community.</p>
   
-  <p><strong>Aug 2025:</strong> I presented my recent paper <em><a href="https://dl.acm.org/doi/pdf/10.1145/3742901.3742917">Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration</a></em> at the 2025 EduCHI Symposium in Bloomington, Indiana! Read an overview of the event from the hosting Luddy School of Informatics <a href="https://news.iu.edu/luddy/live/news/46734-prestigious-educhi-2025-highlights-luddy-schools">here</a>.</p>
+  <p><strong>Aug 2025:</strong> I presented my recent paper <em><a href="https://dl.acm.org/doi/10.1145/3742901.3742917">Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration</a></em> at the 2025 EduCHI Symposium in Bloomington, Indiana! Read an overview of the event from the hosting Luddy School of Informatics <a href="https://news.iu.edu/luddy/live/news/46734-prestigious-educhi-2025-highlights-luddy-schools">here</a>.</p>
 
 
 
