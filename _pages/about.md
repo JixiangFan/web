@@ -8,7 +8,7 @@ redirect_from:
 <style>
   :root { 
     scroll-behavior: smooth; 
-  }          
+  }
   .section { 
     scroll-margin-top: 72px; 
   }
@@ -17,16 +17,22 @@ redirect_from:
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
                  "Helvetica Neue", Arial, sans-serif !important;
-    font-size: 16px;      /* 可以改成 17px 或 18px，按你视觉偏好 */
-    line-height: 1.6;     /* 拉开行距，更容易阅读 */
-    color: #111;          /* 字色稍微深一点，清晰 */
+    font-size: 16px;
+    line-height: 1.6;
+    color: #111;
+  }
+  .page__content p {
+    margin-bottom: 1em;
   }
 
-  /* 正文段落 */
-  .page__content p {
-    margin-bottom: 1em;   /* 段落间距 */
+  /* 拉宽页面内容：去掉右侧 padding 限制 */
+  .page, .page__inner-wrap, .page__content {
+    padding-right: 0 !important;
+    max-width: 1100px !important;   /* 你可以调大/调小，比如 1200 */
+    margin: 0 auto;                 /* 保持居中 */
   }
 </style>
+
 
 
 <strong style="font-weight:900; font-size:1.3em;">About</strong>
