@@ -135,7 +135,7 @@ Education in HCI Outdoors: A Diary Study Approach
     As Instructor of Record
   </div>
   <ul style="margin:0; padding-left:1.2rem;">
-    <li><strong>CS3604: Professionalism in Computing</strong>, Virginia Tech — Fall 2024, Fall 2025</li>
+    <li>CS3604: Professionalism in Computing, Virginia Tech — Fall 2024, Fall 2025</li>
   </ul>
 </div>
 
@@ -145,12 +145,13 @@ Education in HCI Outdoors: A Diary Study Approach
     As Graduate Teaching Assistant
   </div>
   <ul style="margin:0; padding-left:1.2rem;">
-    <li><strong>CS1114: Introduction to Software Design</strong> (CS1 with Lab)</li>
-    <li><strong>CS2114: Software Design & Data Structures</strong> (CS2 with Lab)</li>
-    <li><strong>CS3114: SData Structures & Algorithms</strong></li>
-    <li><strong>CS3724: Introduction to HCI</strong></li>
-    <li><strong>CS5714: Usability Engineering</strong></li>
-    <li><strong>CS5724: Models & Theories of HCI</strong></li>
+    <li>CS1114: Introduction to Software Design(CS1 with Lab)</li>
+    <li>CS2114: Software Design & Data Structures(CS2 with Lab)</li>
+    <li>CS3114: SData Structures & Algorithms</li>
+    <li>CS3724: Introduction to HCI</li>
+    <li>CS4094: Computer Science Capstone</li>
+    <li>CS5714: Usability Engineering</li>
+    <li>CS5724: Models & Theories of HCI</li>
   </ul>
 </div>
 
