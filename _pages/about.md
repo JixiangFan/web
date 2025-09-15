@@ -17,6 +17,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
 
 
 <h2 style="border-bottom:0; padding-bottom:0; margin-bottom:.25rem;">News &amp; Talks</h2>
+<hr>
 
 <div class="news-box"
      style="height:200px; overflow-y:auto; padding:0.25rem 0.5rem;
@@ -30,7 +31,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral** o
   <p><strong>Jan 2025:</strong> In collaboration with <a href="#">AiiCE</a>, I moderated a <a href="#">panel</a> with authors from our <em>Teaching Accessible Computing</em> book project.</p>
 </div>
 
-<hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
+
 
 
 
