@@ -46,9 +46,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
 
 ---
 <span id="publications" style="position:relative; top:-84px;"></span>
-
 **Publications**
-======
 
 Below are a few of my publications. All conference proceedings listed are strictly peer-reviewed, archival works.
 
