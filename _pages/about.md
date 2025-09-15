@@ -46,10 +46,18 @@ Below are a few of my most recent publications. All conference proceedings liste
 
 For a full list of my papers, refer to my [publications page](/publications/)
 
-Design as Translation, Translation as Design: Toward Critical, Creative, and Ethical Pedagogies
-Alannah Oleson, Laurel Taylor, Jixiang Fan (2025)  
-EduCHI Symposium on Human-Computer Interaction Education  
-[ACM Digital Library Link](https://dl.acm.org/doi/10.1145/XXXXX)  
+Diary Study as an Educational Tool: An Experience Report from an HCI Course  
+**Fan, Jixiang**, Derek Haqq, Morva Saaty, Wei-Lu Wang, and Scott McCrickard. (2025)  
+The 56th ACM Technical Symposium on Computer Science Education  
+<span style="display:inline-block; padding:2px 6px; font-size:90%; 
+             font-weight:600; border:1px solid #ccc; border-radius:6px; 
+             background:#f8f8f8; margin-right:6px;">
+  SIGCSE TS 2025
+</span>
+<a href="https://dl.acm.org/doi/10.1145/3641554.3701845">ACM Digital Library Link</a>
+
+
+
 
 ---
 
