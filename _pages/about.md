@@ -14,8 +14,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
 
 ---
 
-
-<h2 style="border-bottom:0; padding-bottom:0; margin-bottom:.25rem;">News &amp; Talks</h2>
+**News &amp; Talks**
 <hr style="margin:.25rem 0 0; border:0; border-bottom:2px solid #333;">
 
 <div class="news-box"
@@ -47,7 +46,10 @@ Below are a few of my most recent publications. All conference proceedings liste
 
 For a full list of my papers, refer to my [publications page](/publications/)
 
-
+Design as Translation, Translation as Design: Toward Critical, Creative, and Ethical Pedagogies
+Alannah Oleson, Laurel Taylor (2025)
+EduCHI Symposium on Human-Computer Interaction Education
+[ACM DL Link]
 
 ---
 
