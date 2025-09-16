@@ -157,7 +157,7 @@ Below are a few of my publications. All conference proceedings listed are strict
 For a full list of my papers, refer to my [publications page](publications.html)
 
 Diary Study as an Educational Tool: An Experience Report from an HCI Course  
-**Fan, Jixiang**, Derek Haqq, Morva Saaty, Wei-Lu Wang, and D. Scott McCrickard. (2025)  
+**Jixiang Fan**, Derek Haqq, Morva Saaty, Wei-Lu Wang, and D. Scott McCrickard. (2025)  
 <span style="display:inline-block; padding:2px 6px; font-size:90%; 
              font-weight:600; border:1px solid #ccc; border-radius:6px; 
              background:#e6f2ff; margin-right:6px;">
@@ -166,7 +166,7 @@ Diary Study as an Educational Tool: An Experience Report from an HCI Course
 <a href="https://dl.acm.org/doi/10.1145/3641554.3701845">ACM Digital Library Link</a>
 
 Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration  
-**Fan, Jixiang**, Wei-Lu Wang, Natalie Andrus, Yusheng Cao, Morva Saaty, Shiva Ghasemi, Lei Xia, and D. Scott McCrickard. (2025)  
+**Jixiang Fan**, Wei-Lu Wang, Natalie Andrus, Yusheng Cao, Morva Saaty, Shiva Ghasemi, Lei Xia, and D. Scott McCrickard. (2025)  
 <span style="display:inline-block; padding:2px 6px; font-size:90%; 
              font-weight:600; border:1px solid #ccc; border-radius:6px; 
              background:#e6f2ff; margin-right:6px;">
@@ -184,7 +184,7 @@ Wei-Lu Wang, Natalie Andrus, Taha Hassan, **Jixiang Fan**, Yusheng Cao, Joelle A
 (coming soon)
 
 Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education  
-**Fan, Jixiang**, and D. Scott McCrickard. (2025)  
+**Jixiang Fan**, and D. Scott McCrickard. (2025)  
 <span style="display:inline-block; padding:2px 6px; font-size:90%; 
              font-weight:600; border:1px solid #ccc; border-radius:6px; 
              background:#e6f2ff; margin-right:6px;">
@@ -193,7 +193,7 @@ Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education
 <a href="https://dl.acm.org/doi/10.1145/3702653.3744312">ACM Digital Library Link</a>
 
 Understanding the Creation of Human-Virtual Entity Bonds through the AR Mobile Game Peridot  
-**Fan, Jixiang**, Yusheng Cao, Morva Saaty, Wei-Lu Wang, Lei Xia, Huayi Liu, and D. Scott McCrickard. (2025)  
+**Jixiang Fan**, Yusheng Cao, Morva Saaty, Wei-Lu Wang, Lei Xia, Huayi Liu, and D. Scott McCrickard. (2025)  
 <span style="display:inline-block; padding:2px 6px; font-size:90%; 
              font-weight:600; border:1px solid #ccc; border-radius:6px; 
              background:#e6f2ff; margin-right:6px;">
@@ -202,7 +202,7 @@ Understanding the Creation of Human-Virtual Entity Bonds through the AR Mobile G
 <a href="https://dl.acm.org/doi/10.1145/3706599.3719751">ACM Digital Library Link</a>
 
 Structuring Collaborative Reflection: Integrating Diary Study and Focus Group Discussion  
-**Fan, Jixiang**, Jiacheng Zhao, Sunggyeol Oh, Michael Bolmer Jr, Yoonje Lee, Nick Flammer, Yuhao Chen, and D. Scott McCrickard. (2025)  
+**Jixiang Fan**, Jiacheng Zhao, Sunggyeol Oh, Michael Bolmer Jr, Yoonje Lee, Nick Flammer, Yuhao Chen, and D. Scott McCrickard. (2025)  
 <span style="display:inline-block; padding:2px 6px; font-size:90%; 
              font-weight:600; border:1px solid #ccc; border-radius:6px; 
              background:#e6f2ff; margin-right:6px;">
@@ -211,7 +211,7 @@ Structuring Collaborative Reflection: Integrating Diary Study and Focus Group Di
 (coming soon)
 
 Education in HCI Outdoors: A Diary Study Approach  
-**Fan, Jixiang**, Morva Saaty, and D. Scott McCrickard. (2024)  
+**Jixiang Fan**, Morva Saaty, and D. Scott McCrickard. (2024)  
 <span style="display:inline-block; padding:2px 6px; font-size:90%; 
              font-weight:600; border:1px solid #ccc; border-radius:6px; 
              background:#e6f2ff; margin-right:6px;">
