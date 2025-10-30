@@ -275,18 +275,6 @@ Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education
       <a href="https://dl.acm.org/doi/10.1145/3706599.3719287" target="_blank">ACM Digital Library Link</a>
     </li>
 
-    <li>
-      <strong>CSCW 2025 Poster</strong><br>
-      <em>Structuring Collaborative Reflection: Integrating Diary Study and Focus Group Discussion</em><br>
-      (coming soon)
-    </li>
-
-    <li>
-      <strong>FIE 2025 Full Paper</strong><br>
-      <em>Optimizing Diary Studies Learning Outcomes with Fine-tuned Large Language Models on the DiaryQuest Platform</em><br>
-      (coming soon)
-    </li>
-
   </ul>
 </div>
 
