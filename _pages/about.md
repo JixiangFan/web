@@ -284,7 +284,7 @@ Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education
 
 <p>
   The most current version of my CV can be found at this link:  
-  <a href="https://github.com/JixiangFan/web/raw/master/files/JixiangCV.pdf" target="_blank">
+  <a href="https://github.com/JixiangFan/web/raw/master/files/JixiangCV10.pdf" target="_blank">
     <strong>Sep 2025 CV (pdf)</strong>
   </a>
 </p>
