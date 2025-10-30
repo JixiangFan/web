@@ -172,6 +172,15 @@ Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insight
 </span>
 <a href="https://dl.acm.org/doi/10.1145/3742901.3742917">ACM Digital Library Link</a>
 
+Education in HCI Outdoors: A Diary Study Approach  
+**Jixiang Fan**, Morva Saaty, and D. Scott McCrickard. (2024)  
+<span style="display:inline-block; padding:2px 6px; font-size:90%; 
+             font-weight:600; border:1px solid #ccc; border-radius:6px; 
+             background:#e6f2ff; margin-right:6px;">
+  EduCHI 2024
+</span>
+<a href="https://dl.acm.org/doi/10.1145/3658619.3658621">ACM Digital Library Link</a>
+
 Writing Home From Afar: Connecting Distant Families through Sharing of Outdoor Experiences with Digital Diaries  
 Wei-Lu Wang, Natalie Andrus, Taha Hassan, **Jixiang Fan**, Yusheng Cao, Joelle Asante, Morva Saaty, Derek Haqq, and D. Scott McCrickard. (2025)  
 <span style="display:inline-block; padding:2px 6px; font-size:90%; 
@@ -179,16 +188,8 @@ Wei-Lu Wang, Natalie Andrus, Taha Hassan, **Jixiang Fan**, Yusheng Cao, Joelle A
              background:#e6f2ff; margin-right:6px;">
   CSCW 2025
 </span>
-(coming soon)
+<a href="https://dl.acm.org/doi/10.1145/3757708">ACM Digital Library Link</a>
 
-Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education  
-**Jixiang Fan**, and D. Scott McCrickard. (2025)  
-<span style="display:inline-block; padding:2px 6px; font-size:90%; 
-             font-weight:600; border:1px solid #ccc; border-radius:6px; 
-             background:#e6f2ff; margin-right:6px;">
-  ICER 2025
-</span>
-<a href="https://dl.acm.org/doi/10.1145/3702653.3744312">ACM Digital Library Link</a>
 
 Understanding the Creation of Human-Virtual Entity Bonds through the AR Mobile Game Peridot  
 **Jixiang Fan**, Yusheng Cao, Morva Saaty, Wei-Lu Wang, Lei Xia, Huayi Liu, and D. Scott McCrickard. (2025)  
@@ -206,16 +207,17 @@ Structuring Collaborative Reflection: Integrating Diary Study and Focus Group Di
              background:#e6f2ff; margin-right:6px;">
   CSCW 2025
 </span>
-(coming soon)
+<a href="https://dl.acm.org/doi/10.1145/3715070.3749233">ACM Digital Library Link</a>
 
-Education in HCI Outdoors: A Diary Study Approach  
-**Jixiang Fan**, Morva Saaty, and D. Scott McCrickard. (2024)  
+Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education  
+**Jixiang Fan**, and D. Scott McCrickard. (2025)  
 <span style="display:inline-block; padding:2px 6px; font-size:90%; 
              font-weight:600; border:1px solid #ccc; border-radius:6px; 
              background:#e6f2ff; margin-right:6px;">
-  EduCHI 2024
+  ICER 2025
 </span>
-<a href="https://dl.acm.org/doi/10.1145/3658619.3658621">ACM Digital Library Link</a>
+<a href="https://dl.acm.org/doi/10.1145/3702653.3744312">ACM Digital Library Link</a>
+
 
 ---
 <span id="teaching" style="position:relative; top:-84px;"></span>
