@@ -61,6 +61,11 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
      style="height:350px; overflow-y:auto; padding:0.25rem 0.5rem;
             border-top:0; border-bottom:0;">
 
+
+<p><strong>Nov 2025:</strong> I delivered the presentation for our paper “Enhancing Cross-level Collaboration in HCI Education through Diary Studies” at IEEE Frontiers in Education (FIE) 2025 in Nashville, Tennessee. </p>
+
+<p><strong>Oct 2025:</strong> Our poster <em><a href="https://dl.acm.org/doi/10.1145/3715070.3749233">Structuring Collaborative Reflection: Integrating Diary Study and Focus Group Discussion</a></em> was accepted and displayed at CSCW 2025. </p>
+
 <p><strong>Aug 2025:</strong> I presented my recent poster <em><a href="https://dl.acm.org/doi/10.1145/3702653.3744312">Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education</a></em> at the 21st ACM Conference on International Computing Education Research (ICER2025) in Charlottesville, Virginia! It was a wonderful  <a href="https://x.com/ICER_C/status/1952075497925484754">opportunity</a> to share my ongoing work and engage in insightful conversations with the computing education research community.</p>
   
 <p><strong>Aug 2025:</strong> I presented my recent paper <em><a href="https://dl.acm.org/doi/10.1145/3742901.3742917">Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration</a></em> at the 2025 EduCHI Symposium in Bloomington, Indiana! Read an overview of the event from the hosting Luddy School of Informatics <a href="https://news.iu.edu/luddy/live/news/46734-prestigious-educhi-2025-highlights-luddy-schools">here</a>.</p>
@@ -72,6 +77,10 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
 <p><strong>Feb 2025:</strong> I took part in the 56th ACM Technical Symposium on Computer Science Education (SIGCSE TS 2025) in Pittsburgh, Pennsylvania, where I shared my paper <em><a href="https://dl.acm.org/doi/10.1145/3641554.3701845">Diary Study as an Educational Tool: An Experience Report from an HCI Course</a></em>.</p>
 
 <p><strong>Feb 2025:</strong> I was invited to give a talk at the 56th ACM Technical Symposium on Computer Science Education (SIGCSE TS 2025) in Pittsburgh, Pennsylvania. As part of the Birds of a Feather session on <em><a href="https://sigcse2025.sigcse.org/details/sigcse-ts-2025-affiliated-events/4/Accessibility-and-Disability-in-CS-Education">Accessibility and Disability in CS Education</a></em>, I presented <em>Integrating Disability Considerations into Design Raising Awareness and Building Inclusivity</em>.</p>
+
+<p><strong>June 2024:</strong> I gave my first conference presentation for our paper <em><a href="https://dl.acm.org/doi/10.1145/3658619.3658621">Education in HCI Outdoors: A Diary Study Approach</a></em> at the EduCHI 2024 Symposium in New York</p>.
+  
+<p><strong>Jan 2024:</strong> I successfully passed my qualifier exam in Computer Science at Virginia Tech!</p>
 
 </div>
 
