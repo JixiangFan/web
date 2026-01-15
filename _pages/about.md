@@ -45,7 +45,7 @@ redirect_from:
 
 <strong style="font-weight:900; font-size:1.3em;">About</strong>
 
-Hello! I’m **Jixiang Fan**, a Ph.D. candidate in Computer Science at Virginia Tech, working with [Dr. D. Scott McCrickard](https://people.cs.vt.edu/mccricks/) in the [Center for Human–Computer Interaction (CHCI)](https://hci.icat.vt.edu/). My research lies at the intersection of <u>Human–Computer Interaction (HCI)</u> and <u>Computing Education Research (CER)</u>, where I explore how diary studies and focus group discussions can be used as pedagogical tools to foster empathy, reflection, and collaborative design skills in computing education. I develop frameworks (PCAR Framework) and tools (DiaryQuest, DiaryLib) that integrate qualitative methods with computational analysis, aiming to make HCI concepts more tangible for students. My work has been disseminated across multiple venues, including full paper at the ACM Technical Symposium on Computer Science Education (SIGCSE TS), as well as other conferences that connect the HCI and computing education communities.
+Hello! I’m **Jixiang Fan**, a Ph.D. candidate in Computer Science at Virginia Tech, working with [Dr. D. Scott McCrickard](https://people.cs.vt.edu/mccricks/). My research is grounded in <u>Computing Education Research (CER)</u>, where I examine how qualitative methods such as diary studies and focus group discussions can be used as pedagogical tools to foster empathy, reflection, and collaborative design skills in computing education. Drawing on perspectives from Human–Computer Interaction, I develop instructional frameworks (e.g., the PCAR Framework) and educational tools (e.g., DiaryQuest, DiaryLib) that integrate reflective practice with computational analysis to support students’ learning and sense-making. My work has been disseminated through multiple computing education venues, including a full paper at the ACM Technical Symposium on Computer Science Education (SIGCSE TS), as well as related interdisciplinary conferences.
 
 I earned my M.S. in [Computer Science from Virginia Tech](https://cs.vt.edu/), and my B.S. degrees in [Computer Science](https://www.cs.umd.edu/) and [Economics from the University of Maryland – College Park](https://www.econ.umd.edu/). At Virginia Tech, I have served as a leading instructor for Professionalism in Computing (CS3604), guiding nearly 200 undergraduates in exploring ethical, social, and professional dimensions of computing. In addition, I have been a Teaching Assistant for twelve semesters across courses ranging from introductory programming (CS1 and CS2) and data structures to advanced Human–Computer Interaction. Beyond the classroom, I actively mentor undergraduate researchers, supporting student-led projects that have resulted in conference papers, posters, and student research competitions. I also hold the Future Professoriate Certificate from the Virginia Tech Graduate School and am a member of the Virginia Tech Academy for Graduate Teaching Assistant Excellence (VT GrATE).
 
@@ -90,39 +90,43 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
 <span id="research" style="position:relative; top:-84px;"></span>
 <strong style="font-weight:900; font-size:1.3em;">Research</strong>
 
-<!-- Pedagogical Methods & Tools for HCI Education -->
+<!-- Pedagogical Methods & Tools for Computing Education -->
 <div style="margin:1rem 0;">
   <div style="font-weight:700; font-size:1.1em; margin-bottom:0.35rem;">
-    Pedagogical Methods &amp; Tools for HCI Education
+    Pedagogical Methods &amp; Tools for Computing Education
   </div>
   <p style="margin:0.25rem 0;">
-    This branch of my research develops and evaluates pedagogical frameworks that use diary studies and
-    focus group discussions as central methods for teaching human–computer interaction. A key outcome of
-    this work is the <strong>PCAR (Plan–Collect–Analyze–Reflect) diary study framework</strong>, introduced and refined through
-    classroom implementations and published at SIGCSE TS 2025. PCAR provides a structured process not only
-    for <strong>students</strong> to document and analyze their technology use and engage in collaborative reflection, but also for
-    <strong>educators</strong> to integrate diary studies into course design and assessment, and for <strong>researchers</strong> to plan,
-    manage, and analyze diary-based studies systematically. I also design, build, and assess software tools (e.g., DiaryQuest, DiaryLib)
-    that operationalize these methods and make them scalable within HCI curricula.
+    This line of my research develops and evaluates pedagogical frameworks that integrate diary studies and
+    focus group discussions into <strong>computing education</strong>. A central outcome of this work is the
+    <strong>PCAR (Plan–Collect–Analyze–Reflect) diary study framework</strong>, introduced and refined through
+    classroom implementations and published at SIGCSE TS 2025. PCAR offers a structured process that supports
+    <strong>students</strong> in documenting and analyzing their computing-related experiences through reflection and collaborative discussion,
+    enables <strong>educators</strong> to systematically incorporate diary-based activities into course design and assessment,
+    and assists <strong>researchers</strong> in planning, managing, and analyzing diary-based educational studies. I also design,
+    build, and evaluate educational software tools (e.g., DiaryQuest, DiaryLib) that operationalize these methods
+    and support their scalable adoption across computing curricula.
   </p>
 </div>
 
-<!-- Supporting Students’ Metacognitive Growth in Design and Computing -->
+
+<!-- Supporting Students’ Metacognitive Growth in Computing -->
 <div style="margin:1rem 0;">
   <div style="font-weight:700; font-size:1.1em; margin-bottom:0.35rem;">
-    Supporting Students’ Metacognitive Growth in Design and Computing
+    Supporting Students’ Metacognitive Growth in Computing
   </div>
   <p style="margin:0.25rem 0;">
-    This branch of my research examines how students develop metacognitive awareness—how they understand
-    and regulate their own learning processes—when engaging in reflective practices. In HCI contexts, I have
-    emphasized changes in empathy as a measurable outcome, using instruments such as the Empathy in Design
-    Scale to track growth across individual and group learning stages. Looking ahead, I aim to extend this work
-    beyond design courses to coding and related computing curricula, using diary study as a framework to
-    investigate how students monitor, reflect on, and adapt their approaches to programming. This line of
-    research seeks to capture a broader set of cognitive and affective factors that shape students’ ability to
-    critically evaluate problems, strategies, and user needs in both design and coding contexts.
+    This line of my research examines how students develop metacognitive awareness—how they understand,
+    monitor, and regulate their own learning processes—through structured reflective practices in
+    <strong>computing education</strong>. In earlier work situated in design-oriented courses, I examined empathy
+    as one observable learning outcome using validated instruments such as the Empathy in Design Scale.
+    Building on these findings, I am extending this research to programming and related computing curricula,
+    using diary studies as an instructional and analytical framework to investigate how students reflect on,
+    evaluate, and adapt their approaches to coding tasks. This work aims to capture a broader set of cognitive
+    and affective factors that shape students’ problem-solving, strategy selection, and critical evaluation
+    across diverse computing learning contexts.
   </p>
 </div>
+
 
 <!-- Preparing Students for Real-World Computing Practice -->
 <div style="margin:1rem 0;">
@@ -150,7 +154,7 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
     Here are some additional areas I am interested in exploring:
   </p>
   <ul style="margin:0; padding-left:1.2rem;">
-    <li>Games as a medium for HCI education and reflection, particularly how playful contexts can scaffold empathy, collaboration, and critical thinking.</li>
+    <li>Games as a medium for Computing education and reflection, particularly how playful contexts can scaffold empathy, collaboration, and critical thinking.</li>
     <li>The integration of artificial intelligence into computing education in ways that are pedagogically meaningful, ethically responsible, and supportive of students’ learning rather than replacing it.</li>
     <li>Emerging modalities in immersive learning environments, such as <strong>VR with olfactory interfaces</strong>, and their potential to expand sensory dimensions of educational experiences.</li>
   </ul>
