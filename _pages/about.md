@@ -202,7 +202,7 @@ Lei Xia, Xiaomei Li, **Jixiang Fan**, Dan Li, and Ling Fan. (2026)
              background:#e6f2ff; margin-right:6px;">
   CHI 2026
 </span>
-<a href="https://dl.acm.org/"Coming Soon</a>
+<a href="https://dl.acm.org/">Coming Soon</a>
 
 
 Writing Home From Afar: Connecting Distant Families through Sharing of Outdoor Experiences with Digital Diaries  
