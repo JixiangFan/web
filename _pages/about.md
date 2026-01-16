@@ -194,6 +194,17 @@ Education in HCI Outdoors: A Diary Study Approach
 </span>
 <a href="https://dl.acm.org/doi/10.1145/3658619.3658621">ACM Digital Library Link</a>
 
+
+The Wetland Quest: Fostering Empathy and Literacy for Urban Herpetofauna Through VR Wetland Exploration  
+Lei Xia, Xiaomei Li, **Jixiang Fan**, Dan Li, and Ling Fan. (2026)  
+<span style="display:inline-block; padding:2px 6px; font-size:90%; 
+             font-weight:600; border:1px solid #ccc; border-radius:6px; 
+             background:#e6f2ff; margin-right:6px;">
+  CHI 2026
+</span>
+<a href="https://dl.acm.org/"Coming Soon</a>
+
+
 Writing Home From Afar: Connecting Distant Families through Sharing of Outdoor Experiences with Digital Diaries  
 Wei-Lu Wang, Natalie Andrus, Taha Hassan, **Jixiang Fan**, Yusheng Cao, Joelle Asante, Morva Saaty, Derek Haqq, and D. Scott McCrickard. (2025)  
 <span style="display:inline-block; padding:2px 6px; font-size:90%; 
@@ -204,32 +215,6 @@ Wei-Lu Wang, Natalie Andrus, Taha Hassan, **Jixiang Fan**, Yusheng Cao, Joelle A
 <a href="https://dl.acm.org/doi/10.1145/3757708">ACM Digital Library Link</a>
 
 
-Understanding the Creation of Human-Virtual Entity Bonds through the AR Mobile Game Peridot  
-**Jixiang Fan**, Yusheng Cao, Morva Saaty, Wei-Lu Wang, Lei Xia, Huayi Liu, and D. Scott McCrickard. (2025)  
-<span style="display:inline-block; padding:2px 6px; font-size:90%; 
-             font-weight:600; border:1px solid #ccc; border-radius:6px; 
-             background:#e6f2ff; margin-right:6px;">
-  CHI 2025
-</span>
-<a href="https://dl.acm.org/doi/10.1145/3706599.3719751">ACM Digital Library Link</a>
-
-Structuring Collaborative Reflection: Integrating Diary Study and Focus Group Discussion  
-**Jixiang Fan**, Jiacheng Zhao, Sunggyeol Oh, Michael Bolmer Jr, Yoonje Lee, Nick Flammer, Yuhao Chen, and D. Scott McCrickard. (2025)  
-<span style="display:inline-block; padding:2px 6px; font-size:90%; 
-             font-weight:600; border:1px solid #ccc; border-radius:6px; 
-             background:#e6f2ff; margin-right:6px;">
-  CSCW 2025
-</span>
-<a href="https://dl.acm.org/doi/10.1145/3715070.3749233">ACM Digital Library Link</a>
-
-Diary Studies as a Pedagogical Tool for Human-Computer Interaction Education  
-**Jixiang Fan**, and D. Scott McCrickard. (2025)  
-<span style="display:inline-block; padding:2px 6px; font-size:90%; 
-             font-weight:600; border:1px solid #ccc; border-radius:6px; 
-             background:#e6f2ff; margin-right:6px;">
-  ICER 2025
-</span>
-<a href="https://dl.acm.org/doi/10.1145/3702653.3744312">ACM Digital Library Link</a>
 
 
 ---
