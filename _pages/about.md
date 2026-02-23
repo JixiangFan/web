@@ -61,8 +61,13 @@ I am expected to graduate in **2026** and am actively seeking **postdoctoral or 
      style="height:350px; overflow-y:auto; padding:0.25rem 0.5rem;
             border-top:0; border-bottom:0;">
 
+<p><strong>Apr 2026:</strong> My LBW paper <em><a href="">Unpacking Empathy Development in HCI Learners: Patterns from Diary Reflections and Peer Discussions</a></em> was accepted at CHI 2026. I also contributed as a co-author to the full paper <em><a>The Wetland Quest: Fostering Empathy and Literacy for Urban Herpetofauna Through VR Wetland Exploration</a></em>. Looking forward to meeting everyone at CHI 2026.</p>
 
-<p><strong>Nov 2025:</strong> I delivered the presentation for our paper <em>Enhancing Cross-level Collaboration in HCI Education through Diary Studies</em> at IEEE Frontiers in Education (FIE) 2025 in Nashville, Tennessee. </p>
+<p><strong>Feb 2026:</strong> My co-authored full paper <em><a href="">Constructing Commonsense Knowledge Graph for Persona Consistency</a></em> was accepted at WSDM 2026.</p>
+
+<p><strong>Feb 2026:</strong> Our poster <em><a href="https://dl.acm.org/doi/10.1145/3770761.3777186">Diary Study for Fostering Collaboration and Student Voice</a></em> was accepted and presented at the ACM SIGCSE Technical Symposium on Computer Science Education (SIGCSE TS 2026). I also served as a session chair and student volunteer during the conference. </p>
+
+<p><strong>Nov 2025:</strong> I delivered the presentation for our paper <em><a href="https://www.computer.org/csdl/proceedings-article/fie/2025/11328647/2df9ohMeNdC">Enhancing Cross-level Collaboration in HCI Education through Diary Studies</a></em> and my mentored undergraduate research team published the paper <em><a href="https://www.computer.org/csdl/proceedings-article/fie/2025/11328660/2df9uxKupQQ">Optimizing Diary Studies Learning Outcomes with Fine-Tuned Large Language Models on the DiaryQuest Platform</a></em> at IEEE Frontiers in Education (FIE) 2025 in Nashville, Tennessee. </p>
 
 <p><strong>Oct 2025:</strong> Our poster <em><a href="https://dl.acm.org/doi/10.1145/3715070.3749233">Structuring Collaborative Reflection: Integrating Diary Study and Focus Group Discussion</a></em> was accepted and displayed at CSCW 2025. </p>
 
@@ -176,14 +181,6 @@ Diary Study as an Educational Tool: An Experience Report from an HCI Course
 </span>
 <a href="https://dl.acm.org/doi/10.1145/3641554.3701845">ACM Digital Library Link</a>
 
-Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration  
-**Jixiang Fan**, Wei-Lu Wang, Natalie Andrus, Yusheng Cao, Morva Saaty, Shiva Ghasemi, Lei Xia, and D. Scott McCrickard. (2025)  
-<span style="display:inline-block; padding:2px 6px; font-size:90%; 
-             font-weight:600; border:1px solid #ccc; border-radius:6px; 
-             background:#e6f2ff; margin-right:6px;">
-  EduCHI 2025
-</span>
-<a href="https://dl.acm.org/doi/10.1145/3742901.3742917">ACM Digital Library Link</a>
 
 Education in HCI Outdoors: A Diary Study Approach  
 **Jixiang Fan**, Morva Saaty, and D. Scott McCrickard. (2024)  
@@ -193,6 +190,17 @@ Education in HCI Outdoors: A Diary Study Approach
   EduCHI 2024
 </span>
 <a href="https://dl.acm.org/doi/10.1145/3658619.3658621">ACM Digital Library Link</a>
+
+
+Enhancing HCI Capstone Courses Through Diary Study Methods: Feedback and Insights from Graduate-Undergraduate Collaboration  
+**Jixiang Fan**, Wei-Lu Wang, Natalie Andrus, Yusheng Cao, Morva Saaty, Shiva Ghasemi, Lei Xia, and D. Scott McCrickard. (2025)  
+<span style="display:inline-block; padding:2px 6px; font-size:90%; 
+             font-weight:600; border:1px solid #ccc; border-radius:6px; 
+             background:#e6f2ff; margin-right:6px;">
+  EduCHI 2025
+</span>
+<a href="https://dl.acm.org/doi/10.1145/3742901.3742917">ACM Digital Library Link</a>
+
 
 
 The Wetland Quest: Fostering Empathy and Literacy for Urban Herpetofauna Through VR Wetland Exploration  
@@ -283,7 +291,7 @@ Wei-Lu Wang, Natalie Andrus, Taha Hassan, **Jixiang Fan**, Yusheng Cao, Joelle A
 <p>
   The most current version of my CV can be found at this link:  
   <a href="https://github.com/JixiangFan/web/raw/master/files/JixiangCV10.pdf" target="_blank">
-    <strong>Sep 2025 CV (pdf)</strong>
+    <strong>Mar 2026 CV (pdf)</strong>
   </a>
 </p>
 
