@@ -300,7 +300,7 @@ Wei-Lu Wang, Natalie Andrus, Taha Hassan, **Jixiang Fan**, Yusheng Cao, Joelle A
 <p>
   The most current version of my CV can be found at this link:  
   <a href="https://github.com/JixiangFan/web/raw/master/files/JixiangCV10.pdf" target="_blank">
-    <strong>Mar 2026 CV (pdf)</strong>
+    <strong>2026 CV (pdf)</strong>
   </a>
 </p>
 
