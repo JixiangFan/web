@@ -181,6 +181,15 @@ Diary Study as an Educational Tool: An Experience Report from an HCI Course
 </span>
 <a href="https://dl.acm.org/doi/10.1145/3641554.3701845">ACM Digital Library Link</a>
 
+Cultivating Design Empathy through the PCAR Diary Framework  
+**Jixiang Fan**, Jiahui Song, Wei-Lu Wang, Yuhao Chen, and Scott McCrickard. (2026)  
+<span style="display:inline-block; padding:2px 6px; font-size:90%; 
+             font-weight:600; border:1px solid #ccc; border-radius:6px; 
+             background:#e6f2ff; margin-right:6px;">
+  ASEE 2026
+</span>
+<a href="https://www.asee.org/events/Conferences-and-Meetings/2026-Annual-Conference-Exposition">Coming Soon</a>
+
 
 Education in HCI Outdoors: A Diary Study Approach  
 **Jixiang Fan**, Morva Saaty, and D. Scott McCrickard. (2024)  
